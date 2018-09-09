@@ -5,7 +5,7 @@ A utiliser divers outils de developpement. Mes connaissances dans ce domaine son
 Ce repertoire ne vous apportera rien, j'irai de decouverte en decouverte.
 
 En voici la liste :
-* Git er Github
+* Git et Github
 * Markdown
 * Jekyll
 * Pelican
